@@ -1,0 +1,15 @@
+{
+  "version": "1.0.1",
+  "name": "Trabekprey-DL Pro v1.0.1",
+  "release_date": "2026-10-16",
+  "min_app_version": "1.0.0",
+  "changelog": [
+    "ជ្រើសរើស Resolution Auto = 720p (HD) ជាលំនាំដើម ទាញយកលឿនជាងមុន 3x - 5x",
+    "ជួសជុលបញ្ហា Queue កកស្ទះ និងកែតម្រូវការបង្ហាញចំនួនភាគឱ្យពេញលេញ (Full Ep)",
+    "បន្ថែមប្រព័ន្ធ Auto-Update ជាមួយប៊ូតុង Update ដោយផ្ទាល់លើរបារខាងលើ (Navbar)",
+    "កែលម្អប្រព័ន្ធ Player និងទាញយកវីដេអូសម្រាប់គ្រប់វេទិកា (Hongguo, ReelShort, 20+ Web)"
+  ],
+  "download_url": "https://github.com/leng121212/Pc_dl_PL/releases/download/v1.0.1/Trabekprey_DL_Pro_Update.zip",
+  "installer_url": "https://github.com/leng121212/Pc_dl_PL/releases/download/v1.0.1/Trabekprey_DL_Pro_1.0.1_Setup.exe",
+  "mandatory": false
+}
