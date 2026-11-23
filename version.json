@@ -1,15 +1,15 @@
 {
-  "version": "1.0.2",
-  "name": "Trabekprey-DL Pro v1.0.2",
-  "release_date": "2026-10-27",
+  "version": "1.0.4",
+  "name": "Trabekprey-DL Pro v1.0.4",
+  "release_date": "2026-11-23",
   "min_app_version": "1.0.0",
   "changelog": [
-    "ជួសជុលបញ្ហាទាញយក (Download) លើ NetShort ឱ្យដំណើរការបានគ្រប់ភាគ ១០០% (Fixed NetShort Full Movie & Auto-Slicing)",
-    "កែតម្រូវប្រព័ន្ធស្វែងរក FFmpeg និង yt-dlp ឱ្យស្គាល់ស្វ័យប្រវត្តគ្រប់ទីតាំង",
-    "ដោះស្រាយបញ្ហាគាំង (Freeze) ពេលទាញយកភាគជាប់សោរ (VIP Episodes) នៅលើ NetShort",
-    "កែលម្អប្រព័ន្ធ Player និងទាញយកវីដេអូសម្រាប់គ្រប់វេទិកា (Hongguo, ReelShort, 20+ Web, NetShort)"
+    "ធ្វើបច្ចុប្បន្នភាពម៉ាស៊ីន Hongguo (红果短剧) ទាញយកបានលឿនជាងមុន ៤ ដង (High-Speed Multi-Worker Engine)",
+    "ដោះស្រាយបញ្ហាគាំង 0% និងដោនឡូតបានគ្រប់ភាគ ១០០% (Fixed 0% Freeze & Full Episodes Download)",
+    "គាំទ្រការទាញយកដំណាលគ្នា (Multi-Worker Concurrency 4x) និងស្វ័យប្រវត្ត CENC AES-128 Decryption",
+    "ដោះស្រាយបញ្ហា Auto-Update ជាប់គាំងត្រឹម Version 1.0.2"
   ],
-  "download_url": "https://github.com/leng121212/Pc_dl_PL/releases/download/v1.0.2/Trabekprey_DL_Pro_Update.zip",
-  "installer_url": "https://github.com/leng121212/Pc_dl_PL/releases/download/v1.0.2/Trabekprey_DL_Pro_1.0.2_Setup.exe",
+  "download_url": "https://github.com/leng121212/Pc_dl_PL/releases/download/v1.0.4/Trabekprey_DL_Pro_Update.zip",
+  "installer_url": "https://github.com/leng121212/Pc_dl_PL/releases/download/v1.0.4/Trabekprey_DL_Pro_1.0.4_Setup.exe",
   "mandatory": false
 }
