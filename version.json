@@ -1,15 +1,15 @@
 {
-  "version": "1.0.5",
-  "name": "Trabekprey-DL Pro v1.0.5",
-  "release_date": "2026-11-25",
+  "version": "1.0.6",
+  "name": "Trabekprey-DL Pro v1.0.6",
+  "release_date": "2026-11-26",
   "min_app_version": "1.0.0",
   "changelog": [
-    "ដោះស្រាយបញ្ហា WinError 10061 (Port 3005 Refused) ពេលទាញយករឿង Hongguo ក្រោយ Auto-Update",
-    "ធ្វើបច្ចុប្បន្នភាពប្រព័ន្ធ Auto-Updater ប្រើ Robocopy និងបិទ Child Processes ដោយស្វ័យប្រវត្ត ការពារកុំឱ្យបាត់ម៉ាស៊ីន node_studio",
-    "ភ្ជាប់ជម្រើស Concurrency (ទាញយកច្រើនភាគដំណាលគ្នា ៤-៦ ភាគ) ពី UI ទៅម៉ាស៊ីន Hongguo ផ្ទាល់",
-    "បន្ថែមប្រព័ន្ធ Log ស្វ័យប្រវត្ត (node_studio.log) និងការពិនិត្យស្ថានភាព Engine ឱ្យកាន់តែស្ថិរភាព"
+    "ដោះស្រាយបញ្ហាទាញយកភាគ VIP Hongguo (ភាគ ៦ ឡើងទៅ) ដោយប្រើប្រព័ន្ធ Global Modu VOD Mirror Fallback ល្បឿនលឿន",
+    "ដំណើរការ ១០០% Free ដោយមិនបាច់ប្រើ Account VIP និងមិនបាច់ប្រើប្រព័ន្ធ VPN ឡើយ",
+    "ជួសជុល Muxer Output -f mp4 លើ ffmpeg ការពារកុំឱ្យ Error ពេលបំប្លែងឯកសារ .tmp",
+    "ពង្រឹងស្ថិរភាព Auto-Updater លើ Windows ជាមួយប្រព័ន្ធ Robocopy In-Place Replacement"
   ],
-  "download_url": "https://github.com/leng121212/Pc_dl_PL/releases/download/v1.0.5/Trabekprey_DL_Pro_Update.zip",
-  "installer_url": "https://github.com/leng121212/Pc_dl_PL/releases/download/v1.0.5/Trabekprey_DL_Pro_1.0.5_Setup.exe",
+  "download_url": "https://github.com/leng121212/Pc_dl_PL/releases/download/v1.0.6/Trabekprey_DL_Pro_Update.zip",
+  "installer_url": "https://github.com/leng121212/Pc_dl_PL/releases/download/v1.0.6/Trabekprey_DL_Pro_1.0.6_Setup.exe",
   "mandatory": false
 }
