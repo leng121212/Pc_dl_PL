@@ -1,15 +1,15 @@
 {
-  "version": "1.0.7",
-  "name": "Trabekprey-DL Pro v1.0.7",
-  "release_date": "2026-11-26",
+  "version": "1.0.8",
+  "name": "Trabekprey-DL Pro v1.0.8",
+  "release_date": "2026-11-28",
   "min_app_version": "1.0.0",
   "changelog": [
-    "ធ្វើឱ្យប្រសើរឡើងនូវម៉ាស៊ីនទាញយក short drama គ្រប់ភាគ ១០០% (Full Episodes)",
-    "បង្កើនល្បឿន និងស្ថិរភាពនៃការទាញយកកម្រិត Full HD (1080p)",
-    "ជួសជុលបញ្ហា Muxer Output លើ ffmpeg ឱ្យដំណើរការរលូន",
-    "ពង្រឹងប្រព័ន្ធ Auto-Updater លើ Windows ឱ្យដំណើរការដំឡើងស្វ័យប្រវត្តគ្មានបញ្ហា"
+    "ដោះសោរគ្រប់ភាគ VIP & Locked លើ Hongguo ១០០% ដោយប្រើ UniDbg Native ARM Emulation",
+    "ដោះស្រាយការទាញយកកម្រិត Full HD (1080p) និង Whitebox AES CENC Decryption ដោយស្វ័យប្រវត្ត",
+    "ពង្រីកការទាញយក Catalog រឿងពេញ (គ្រប់ភាគទាំងអស់ រហូតដល់ 143+ ភាគ មិនមែនត្រឹមតែ 5 ភាគ)",
+    "អាប់ដេតម៉ាស៊ីន Auto-Updater ឱ្យទាញយក និងតម្លើងកំណែថ្មីលឿន និងរលូនបំផុត"
   ],
-  "download_url": "https://github.com/leng121212/Pc_dl_PL/releases/download/v1.0.7/Trabekprey_DL_Pro_Update.zip",
-  "installer_url": "https://github.com/leng121212/Pc_dl_PL/releases/download/v1.0.7/Trabekprey_DL_Pro_1.0.7_Setup.exe",
+  "download_url": "https://github.com/leng121212/Pc_dl_PL/releases/download/v1.0.8/Trabekprey_DL_Pro_Update.zip",
+  "installer_url": "https://github.com/leng121212/Pc_dl_PL/releases/download/v1.0.8/Trabekprey_DL_Pro_1.0.8_Setup.exe",
   "mandatory": false
 }
